@@ -4,8 +4,7 @@ import android.util.Log;
 
 class Human extends Animal implements Thinkable {
 
-    String name;
-    int age;
+
     String hobby;
 
     public Human(String name, int age,String hobby) {
